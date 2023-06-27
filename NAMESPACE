@@ -1,0 +1,22 @@
+import(sp)
+importFrom("grDevices", "col2rgb")
+importFrom("methods", "extends", "is", "slot")
+
+export(
+ GE_SpatialGrid,
+ kmlOverlay, # RgoogleMaps
+ Sobj_SpatialGrid # (gone 2212 surveillance)
+)
+
+export(
+ kmlPolygons, # red https://github.com/r-spatial/evolution/issues/6
+ kmlLines, # https://github.com/r-spatial/evolution/issues/6
+ kmlPolygon, # red
+ kmlLine, # (gone 2212 BPEC)
+ getKMLcoordinates, # animaltracker
+ kmlPoints # (gone 2212 BPEC)
+)
+
+
+
+
