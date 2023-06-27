@@ -4,6 +4,9 @@ Date: 2023-07-01
 Title: KML functions for Spatial Objects
 Authors@R: c(
 	person("Roger", "Bivand", role = c("cre", "aut"), email = "Roger.Bivand@nhh.no", comment=c(ORCID="0000-0003-2392-6140")),
+	person("Hans-Jörg", "Bibiko", role = "aut"),
+	person("Steven", "Brey", role = "ctb"),
+	person("Jonathan", "Callahan", role = "ctb"),
 	person("David", "Forrest", role = "ctb"),
 	person("Duncan", "Golicher", role = "ctb"))
 Encoding: UTF-8
